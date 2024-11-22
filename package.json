@@ -23,5 +23,9 @@
   },
   "devDependencies": {
     "@types/react": "^18.3.12"
+  },
+  "repository": {
+    "url": "https://github.com/dugalcedo/useDefensiveArrayState",
+    "type": "github"
   }
 }

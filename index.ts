@@ -90,6 +90,7 @@ const useDefensiveArrayState = <T>(initial: T[]) => {
                 return 0
             }
         })
+        setState(copy)
     }
 
     return {
